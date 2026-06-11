@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi! I'm Ángel Mori Serván 👋
 
-<!--
-**moriservanangel-source/moriservanangel-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Systems Engineering student at Universidad Privada del Norte (UPN) in Cajamarca, Peru. I love solving logical problems through code, focusing on learning software development, clean code, and good programming practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies and Tools
+
+<p align="left">
+  <!-- C# -->
+  <img src="https://shields.io" alt="C#" />
+  <!-- Git -->
+  <img src="https://shields.io" alt="Git" />
+  <!-- GitHub -->
+  <img src="https://shields.io" alt="GitHub" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+*   **🧯 Fire Protection System (Sistema Contra Incendios)**
+    *   *Description:* A software project focused on the logic and simulation of safety alerts and risk prevention.
+    *   *Technologies:* C#
+
+---
+
+### 🌱 Current Focus
+*   🎯 Improving my programming logic and learning object-oriented programming (OOP).
+*   📚 Expanding my knowledge in data structures and database systems.
+*
